@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/selvarajmurugesan/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:selvarajmurugesan90@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-Follow-black?logo=medium&logoColor=white)](https://medium.com/@selvarajmurugesan90)
 
 ## 👨‍💻 About Me
 
@@ -16,6 +17,10 @@ My expertise includes:
 - **Observability**: Implementing comprehensive monitoring and logging solutions with Prometheus, VictoriaMetrics, ELK stack, and Grafana
 
 I'm passionate about implementing DevSecOps practices to build secure, scalable, and resilient cloud-native applications while continuously optimizing infrastructure for performance and cost efficiency.
+
+## 📝 Latest Blog Posts
+
+- [Building a Universal Database Operator for Kubernetes: A Complete Guide to Multi-Database Management](https://medium.com/@selvarajmurugesan90/building-a-universal-database-operator-for-kubernetes-a-complete-guide-to-multi-database-55b4786fdfb2) - A comprehensive guide on creating a universal database operator for Kubernetes to manage multiple database types.
 
 ## 🛠️ Technical Skills
 
@@ -87,6 +92,9 @@ End-to-end MLOps pipeline using Kubeflow, MLflow, KServe, and Airflow for model 
 ### Observability Stack
 Comprehensive monitoring and logging solution using VictoriaMetrics, Prometheus, Grafana, FluentBit, and Elasticsearch with pre-configured dashboards and alerts.
 
+### Universal Database Operator for Kubernetes
+A custom Kubernetes operator that provides a unified interface for managing multiple database types (PostgreSQL, MySQL, MongoDB) in Kubernetes environments.
+
 ## 📫 How to reach me
 - Email: selvarajmurugesan90@gmail.com
-```
+- Medium: [@selvarajmurugesan90](https://medium.com/@selvarajmurugesan90)
