@@ -20,6 +20,7 @@ I'm passionate about implementing DevSecOps practices to build secure, scalable,
 
 ## 📝 Latest Blog Posts
 
+- [DevOps vs DevSecOps vs MLOps: Understanding the Evolution of Modern Software Delivery](https://medium.com/@selvarajmurugesan90/devops-vs-devsecops-vs-mlops-understanding-the-evolution-of-modern-software-delivery-3548507273fb) - A comprehensive comparison of DevOps, DevSecOps, and MLOps methodologies with implementation strategies and best practices.
 - [Building a Universal Database Operator for Kubernetes: A Complete Guide to Multi-Database Management](https://medium.com/@selvarajmurugesan90/building-a-universal-database-operator-for-kubernetes-a-complete-guide-to-multi-database-55b4786fdfb2) - A comprehensive guide on creating a universal database operator for Kubernetes to manage multiple database types.
 
 ## 🛠️ Technical Skills
