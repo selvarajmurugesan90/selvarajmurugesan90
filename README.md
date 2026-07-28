@@ -25,10 +25,10 @@ Senior DevSecOps and Cloud Engineer with **14+ years of experience** managing cl
 | **Kubernetes & Cloud** | EKS, AKS, GKE, OpenShift, ROSA, K3s, On-Prem — production cluster management, security hardening, scaling |
 | **GitOps & CI/CD** | ArgoCD (App of Apps), Helm umbrella charts, Jenkins, Bamboo, GitLab CI, AWS CodePipeline |
 | **AI / LLM Infrastructure** | LangGraph, LibreChat, Langfuse, NVIDIA NeMo Guardrails, ToolHive, MCP Servers, RAG pipelines with pgvector |
-| **DevSecOps** | Trivy, OWASP ZAP, SonarQube, Prisma Cloud, Vault, Sealed Secrets, External Secrets Operator, cert-manager |
+| **DevSecOps** | Trivy, OWASP ZAP, SonarQube, Prisma Cloud, Vault, Sealed Secrets, External Secrets Operator, cert-manager — author of [ops-engineering-skills](https://github.com/selvarajmurugesan90/ops-engineering-skills), an open-source AI agent skills library (296 skills, 22 domains) for DevOps, DevSecOps, and cloud engineering |
 | **Observability** | Prometheus, VictoriaMetrics, Grafana, ELK Stack, FluentBit, Istio service mesh |
 | **IaC** | Modular Terraform across AWS, Azure, GCP, OCI — Ansible for configuration management |
-| **Open Source** | Author of [Klarity](https://github.com/selvarajmurugesan90/klarity) — enterprise Kubernetes observability for GitOps teams |
+| **Open Source** | Author of [Klarity](https://github.com/selvarajmurugesan90/klarity) — enterprise Kubernetes observability for GitOps teams, and [ops-engineering-skills](https://github.com/selvarajmurugesan90/ops-engineering-skills) — a 296-skill, 22-domain AI agent skills library for DevOps, DevSecOps, and cloud engineering |
 
 ---
 
